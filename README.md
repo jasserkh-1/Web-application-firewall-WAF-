@@ -57,10 +57,8 @@ Python 3.8+
 Flask
 
 Installation
-bash
-Copier
-Modifier
-git clone https://github.com/your-username/flask-waf.git
+
+git clone https://github.com/jasserkh-1/flask-waf.git
 cd flask-waf
 pip install -r requirements.txt
 python app.py
