@@ -58,7 +58,7 @@ Flask
 
 Installation
 
-git clone https://github.com/jasserkh-1/flask-waf.git
+git clone https://github.com/jasserkh-1/Web-application-firewall-WAF-
 cd flask-waf
 pip install -r requirements.txt
 python app.py
