@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Python WAF</title>
+</head>
+<body>
+    <h1>🛡️ Python WAF — Payload Analyzer</h1>
+    <form method="POST">
+        <textarea name="payload" rows="6" cols="60" placeholder="Enter payload here..."></textarea><br><br>
+        <button type="submit">Analyze</button>
+    </form>
+
+    {% if result %}
+        <p><strong>Result:</strong> {{ result }}</p>
+    {% endif %}
+</body>
+</html>

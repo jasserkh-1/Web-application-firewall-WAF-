@@ -1,0 +1,83 @@
+# Basic script tags
+<script\b[^>]*>(.*?)</script>
+</script>
+<script\b[^>]*src=?
+<script\b[^>]*>.*?alert\(.*?\).*?</script>
+
+# Event handlers
+on\w+\s*=\s*["']?[^"'>]+
+onload\s*=
+onerror\s*=
+onclick\s*=
+onmouseover\s*=
+onfocus\s*=
+onmouseenter\s*=
+onmouseleave\s*=
+onblur\s*=
+
+# JavaScript URLs
+javascript\s*:
+vbscript\s*:
+data\s*:\s*text\/html
+
+# Common XSS keywords/functions
+alert\s*\(
+confirm\s*\(
+prompt\s*\(
+eval\s*\(
+setTimeout\s*\(
+setInterval\s*\(
+Function\s*\(
+document\.cookie
+document\.location
+document\.write
+window\.location
+window\.name
+window\.open
+
+# Malicious tags
+<iframe\b
+<embed\b
+<svg\b
+<math\b
+<xml\b
+<base\b
+<isindex\b
+<body\b
+<video\b
+<audio\b
+<img\b[^>]*src\s*=\s*["']?javascript:
+<img\b[^>]*onerror\s*=
+
+# Obfuscation tricks
+&#x.{2,4};
+%3Cscript
+%3Ciframe
+%3Cimg
+%3Csvg
+# ───── Basic <script> variants ─────
+(?i)<script\b[^>]*>(.*?)</script>
+(?i)<script\b[^>]*src\s*=\s*[^>]+>
+(?i)<script\b[^>]*>.*?alert\(.*?\).*?</script>
+
+# ───── Inline event‑handlers ─────
+(?i)on\w+\s*=\s*["'][^"'>]+
+(?i)on(?:load|error|click|mouseover|focus|mouseenter|mouseleave|blur)\s*=
+  
+# ───── Dangerous URI schemes ─────
+(?i)\b(?:java|vb)script\s*:
+(?i)data\s*:\s*text\/html
+
+# ───── High‑risk JS functions / properties ─────
+(?i)\b(?:alert|confirm|prompt|eval|setTimeout|setInterval|Function)\s*\(
+(?i)document\.(?:cookie|location|write)
+(?i)window\.(?:location|name|open)
+
+# ───── Malicious / seldom‑needed tags ─────
+(?i)<(?:iframe|embed|svg|math|xml|base|isindex|body|video|audio)\b
+(?i)<img\b[^>]*\b(?:src\s*=\s*["']?\s*javascript:|onerror\s*=)
+
+# ───── Common encoded tricks ─────
+(?i)&#x[0-9a-f]{2,4};
+(?i)%3C(?:script|iframe|img|svg)
+

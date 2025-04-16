@@ -1,0 +1,31 @@
+# Tautology
+('|\")\s*or\s*\1?\s*\d+\s*=\s*\d+
+('|")\s*or\s*('|")1('|")\s*=\s*('|")1
+
+# Common SQLi keywords
+union\s+select
+select\s.+\sfrom
+insert\s+into
+update\s+\w+\s+set
+delete\s+from
+drop\s+table
+truncate\s+table
+
+# Comment styles
+--\s
+#\s
+/\*.*?\*/
+(?i)or\s+1\s*=\s*1
+
+# Functions often used in attacks
+sleep\s*\(
+benchmark\s*\(
+load_file\s*\(
+into\s+outfile
+char\s*\(
+ascii\s*\(
+concat\s*\(
+group_concat\s*\(
+
+# Encoded values
+0x[0-9a-fA-F]+
